@@ -76,7 +76,7 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 
 3. Jalankan script:
 ```bash
-python diabetesClasiffier.py
+python diabetes_ml_classifier.py
 ```
 
 ## Performa Model
